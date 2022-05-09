@@ -35,7 +35,7 @@
     {
         "CompanyName": "ORANGE BUS",
         "busType": "Multi AXLE AC",
-        "busNumber": "TN 27 110099",
+        "busNumber": "KQ 27 110099",
         "startCity": "Chennai",
         "destination": "Hyderabad",
         "totalSeats": "36",
@@ -46,7 +46,7 @@
     {
         "CompanyName": "RED BUS",
         "busType": "Multi AXLE AC",
-        "busNumber": "TN 27 110099",
+        "busNumber": "KP 27 110099",
         "startCity": "Chennai",
         "destination": "Coimbatore",
         "totalSeats": "36",
@@ -57,7 +57,7 @@
     {
         "CompanyName": "ORANGE BUS",
         "busType": "Multi AXLE AC",
-        "busNumber": "TN 27 110099",
+        "busNumber": "KC 27 110099",
         "startCity": "Chennai",
         "destination": "Coimbatore",
         "totalSeats": "36",
@@ -68,7 +68,7 @@
     {
         "CompanyName": "RED BUS",
         "busType": "Multi AXLE AC",
-        "busNumber": "TN 27 110099",
+        "busNumber": "KJ 27 110099",
         "startCity": "Chennai",
         "destination": "Vishakapatnam",
         "totalSeats": "36",
